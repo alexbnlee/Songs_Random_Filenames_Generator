@@ -1,0 +1,7 @@
+c:\users\mcdelfino\documents\visual studio 2010\Projects\歌曲随机编码\歌曲随机编码\bin\Debug\歌曲随机编码.exe
+c:\users\mcdelfino\documents\visual studio 2010\Projects\歌曲随机编码\歌曲随机编码\bin\Debug\歌曲随机编码.pdb
+c:\users\mcdelfino\documents\visual studio 2010\Projects\歌曲随机编码\歌曲随机编码\obj\x86\Debug\歌曲随机编码.Form1.resources
+c:\users\mcdelfino\documents\visual studio 2010\Projects\歌曲随机编码\歌曲随机编码\obj\x86\Debug\歌曲随机编码.Properties.Resources.resources
+c:\users\mcdelfino\documents\visual studio 2010\Projects\歌曲随机编码\歌曲随机编码\obj\x86\Debug\歌曲随机编码.csproj.GenerateResource.Cache
+c:\users\mcdelfino\documents\visual studio 2010\Projects\歌曲随机编码\歌曲随机编码\obj\x86\Debug\歌曲随机编码.exe
+c:\users\mcdelfino\documents\visual studio 2010\Projects\歌曲随机编码\歌曲随机编码\obj\x86\Debug\歌曲随机编码.pdb
